@@ -21,7 +21,7 @@ GitHub仓库：[https://github.com/EnderWolf006/HomeworkBoard](https://github.co
 </div>
 
 ::: tip
-该项目作者已停更，建议使用 [Classworks](/apps/dashboard/classworks) 。
+该项目作者已停更，建议使用 [Classworks](/教辅软件/看板类/Classworks) 。
 :::
 
 ## 功能
