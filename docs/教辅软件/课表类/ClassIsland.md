@@ -10,7 +10,7 @@ order: 2
 
 <ArticleMetadata />
 
-![Banner](images/banner.png)
+![Banner](/images/ClassIsland/banner.png)
 
 [![stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland?label=Stars)](https://github.com/ClassIsland/ClassIsland) [![forks](https://img.shields.io/github/forks/ClassIsland/ClassIsland?label=Forks)](https://github.com/ClassIsland/ClassIsland) [![Watchers](https://img.shields.io/github/watchers/ClassIsland/ClassIsland?style=social)](https://github.com/ClassIsland/ClassIsland/watchers) [![Downloads](https://img.shields.io/github/downloads/ClassIsland/ClassIsland/total?style=social&label=Downloads&logo=github)](https://github.com/ClassIsland/ClassIsland/releases/latest) [![GitHub Issues](https://img.shields.io/github/issues-search/ClassIsland/ClassIsland?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/ClassIsland/ClassIsland/issues) [![GitHub Discussions](https://img.shields.io/github/discussions/ClassIsland/ClassIsland?style=flat&logo=Github&label=Discussions)](https://github.com/ClassIsland/ClassIsland/discussions) [![Release](https://img.shields.io/github/v/release/ClassIsland/ClassIsland?style=flat&color=%233fb950&label=正式版)](https://github.com/ClassIsland/ClassIsland/releases/latest) [![Beta](https://img.shields.io/github/v/release/ClassIsland/ClassIsland?include_prereleases&style=flat&color=orange&label=测试版)](https://github.com/ClassIsland/ClassIsland/releases) [![Created At](https://img.shields.io/github/created-at/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland) [![Github Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland/commits/master) ![C#](https://img.shields.io/badge/C%23-blue?logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI4OCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiIHZpZXdCb3g9IjAgMCAyNTYgMjg4IiB3aWR0aD0iMjU2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0yNTUuNTY5IDg0LjQ1MjM3NmMtLjAwMi00LjgzLTEuMDM1LTkuMDk4LTMuMTI0LTEyLjc2MS0yLjA1Mi0zLjYwMi01LjEyNS02LjYyMS05LjI0Ny05LjAwOC0zNC4wMjUtMTkuNjE5LTY4LjA4My0zOS4xNzgtMTAyLjA5Ny01OC44MTY5OTk5NS05LjE3LTUuMjk0LTE4LjA2MS01LjEwMS0yNy4xNjMuMjY5LTEzLjU0MyA3Ljk4Njk5OTk1LTgxLjM0OCA0Ni44MzM5OTk5NS0xMDEuNTUzIDU4LjUzNjk5OTk1LTguMzIxIDQuODE3LTEyLjM3IDEyLjE4OS0xMi4zNzIgMjEuNzcxLS4wMTMgMzkuNDU1IDAgNzguOTA5LS4wMTMgMTE4LjM2NSAwIDQuNzI0Ljk5MSA4LjkwOSAyLjk4OCAxMi41MTcgMi4wNTMgMy43MTEgNS4xNjkgNi44MTMgOS4zODYgOS4yNTQgMjAuMjA2IDExLjcwMyA4OC4wMiA1MC41NDcgMTAxLjU2IDU4LjUzNiA5LjEwNiA1LjM3MyAxNy45OTcgNS41NjUgMjcuMTcuMjY5IDM0LjAxNS0xOS42NCA2OC4wNzUtMzkuMTk4IDEwMi4xMDUtNTguODE3IDQuMjE3LTIuNDQgNy4zMzMtNS41NDQgOS4zODYtOS4yNTIgMS45OTQtMy42MDggMi45ODctNy43OTMgMi45ODctMTIuNTE4IDAgMCAwLTc4Ljg4OS0uMDEzLTExOC4zNDUiIGZpbGw9IiNhMTc5ZGMiLz48cGF0aCBkPSJtMTI4LjE4MiAxNDMuMjQxMzc2LTEyNS4xOTQgNzIuMDg0YzIuMDUzIDMuNzExIDUuMTY5IDYuODEzIDkuMzg2IDkuMjU0IDIwLjIwNiAxMS43MDMgODguMDIgNTAuNTQ3IDEwMS41NiA1OC41MzYgOS4xMDYgNS4zNzMgMTcuOTk3IDUuNTY1IDI3LjE3LjI2OSAzNC4wMTUtMTkuNjQgNjguMDc1LTM5LjE5OCAxMDIuMTA1LTU4LjgxNyA0LjIxNy0yLjQ0IDcuMzMzLTUuNTQ0IDkuMzg2LTkuMjUyeiIgZmlsbD0iIzI4MDA2OCIvPjxwYXRoIGQ9Im0yNTUuNTY5IDg0LjQ1MjM3NmMtLjAwMi00LjgzLTEuMDM1LTkuMDk4LTMuMTI0LTEyLjc2MWwtMTI0LjI2MyA3MS41NSAxMjQuNDEzIDcyLjA3NGMxLjk5NC0zLjYwOCAyLjk4NS03Ljc5MyAyLjk4Ny0xMi41MTggMCAwIDAtNzguODg5LS4wMTMtMTE4LjM0NSIgZmlsbD0iIzM5MDA5MSIvPjxnIGZpbGw9IiNmZmYiPjxwYXRoIGQ9Im0yMDEuODkyMzI2IDExNi4yOTQwMDh2MTMuNDczNjg0aDEzLjQ3MzY4NHYtMTMuNDczNjg0aDYuNzM2ODQydjEzLjQ3MzY4NGgxMy40NzM2ODV2Ni43MzY4NDJoLTEzLjQ3MzY4NXYxMy40NzM2ODRoMTMuNDczNjg1djYuNzM2ODQyaC0xMy40NzM2ODV2MTMuNDczNjg0aC02LjczNjg0MnYtMTMuNDczNjg0aC0xMy40NzM2ODR2MTMuNDczNjg0aC02LjczNjg0MnYtMTMuNDczNjg0aC0xMy40NzM2ODR2LTYuNzM2ODQyaDEzLjQ3MzY4NHYtMTMuNDczNjg0aC0xMy40NzM2ODR2LTYuNzM2ODQyaDEzLjQ3MzY4NHYtMTMuNDczNjg0em0xMy40NzM2ODQgMjAuMjEwNTI2aC0xMy40NzM2ODR2MTMuNDczNjg0aDEzLjQ3MzY4NHoiLz48cGF0aCBkPSJtMTI4LjQ1Njc1MiA0OC42MjU4NzZjMzUuMTQzNzcxIDAgNjUuODI3MTMzIDE5LjA4NjI5ODEgODIuMjYxODEgNDcuNDU2MDY3NWwtLjE2MDM3LS4yNzMwNjc1LTQxLjM0ODU3NyAyMy44MDgyODNjLTguMTQ2NjU2LTEzLjc5MzYwNS0yMy4wODE0NzktMjMuMTAyMDg3My00MC4yMTMyMzItMjMuMjkzNzg2OGwtLjUzOTYzMS0uMDAzMDE3OGMtMjYuMTI1NTc0IDAtNDcuMzA2MDgxNSAyMS4xNzkzODg2LTQ3LjMwNjA4MTUgNDcuMzA0OTYxNiAwIDguNTQzNjE1IDIuMjc3Nzc0OCAxNi41NTIyMDQgNi4yMzg5NzY0IDIzLjQ2OTQ3NiA4LjE1NDA5ODEgMTQuMjM1MjUzIDIzLjQ4MjkwNzEgMjMuODM2NjA2IDQxLjA2NzEwNTEgMjMuODM2NjA2IDE3LjY5Mjc3IDAgMzMuMTA4ODg0LTkuNzIzMzU3IDQxLjIyMTU2OC0yNC4xMTA4MzVsLS4xOTcxMjguMzQ1MzEzIDQxLjI4NjQ4NiAyMy45MTgwMzdjLTE2LjI1NDM5OCAyOC4xMjk1NTctNDYuNTE3NDA4IDQ3LjE1Njk0OC04MS4yNTI3MDEgNDcuNTM2MTg5bC0xLjA1ODIyNS4wMDU3NzRjLTM1LjI1NDU4MTkgMC02Ni4wMjUyNDkyLTE5LjIwMzgyNC04Mi40MTg1MTIyLTQ3LjcyMzU4LTguMDAyOTkyNy0xMy45MjI5NjktMTIuNTgyMDQ3Ni0zMC4wNjQzODktMTIuNTgyMDQ3Ni00Ny4yNzY5OCAwLTUyLjQ2NjA1MjQgNDIuNTMyMjY4Mi05NC45OTk0NCA5NS4wMDA1NTk4LTk0Ljk5OTQ0eiIvPjwvZz48L3N2Zz4=) [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/ClassIsland/ClassIsland/blob/master/LICENSE.txt) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHelloWRC%2FClassIsland.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHelloWRC%2FClassIsland?ref=badge_shield&style=flat) [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C958840932-blue?style=flat&logo=QQ)](https://qm.qq.com/q/4NsDQKiAuQ) [![QQ频道](https://img.shields.io/badge/-QQ%E9%A2%91%E9%81%93%EF%BD%9Cclassisland-blue?style=flat&logo=QQ)](https://pd.qq.com/s/7a41knciu) [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CHelloWRC__dev-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/355897687)
 
@@ -34,26 +34,26 @@ order: 2
 
 - 支持自定义相对行号、隐藏规则集与更多高级设置
   - 课程表组件
-    ![class-schedule](images/class-schedule.png)
+    ![class-schedule](/images/ClassIsland/class-schedule.png)
   - 轮播组件、分组组件满足更多需求
   - [天气简报](https://docs.classisland.tech/app/advanced#%e5%a4%a9%e6%b0%94)组件支持显示降雨剩余时间
   - 高级设置
-    ![advanced-settings](images/advanced-settings.png)
+    ![advanced-settings](/images/ClassIsland/advanced-settings.png)
 
 ## 主题设置
-![themes](images/themes.png)
+![themes](/images/ClassIsland/themes.png)
 
 > 通过主题设置高度定制应用主界面外观（[**主题下载**](https://www.123912.com/s/0l7bVv-qHdAh)）
 
-![Class-Widgests](images/classwidgets.png)
+![Class-Widgests](/images/ClassIsland/classwidgets.png)
     
-![Fluent](images/fluent.png)
+![Fluent](/images/ClassIsland/fluent.png)
     
-![TestTheme](images/testtheme.png)
+![TestTheme](/images/ClassIsland/testtheme.png)
     
-![TestTheme2](images/testtheme2.png)
+![TestTheme2](/images/ClassIsland/testtheme2.png)
     
-![NeZha](images/nezha.png)
+![NeZha](/images/ClassIsland/nezha.png)
 
 ## [档案编辑](https://docs.classisland.tech/app/profile/)
 
@@ -100,7 +100,7 @@ order: 2
 
 ### [提醒](https://docs.classisland.tech/app/notifications.html)
 - 支持[`上下课提醒`、`放学提醒`、`天气/预警提醒`、`行动提醒`](https://docs.classisland.tech/app/notifications.html#%E6%8F%90%E9%86%92%E8%AE%BE%E7%BD%AE)，可设置提醒优先级，提醒横幅可自选搭配[`提醒音效`、`强调特效`和`提醒语音`](https://docs.classisland.tech/app/notifications.html#%E5%BC%BA%E8%B0%83%E6%8F%90%E9%86%92)
-![notifications](images/notifications.png)
+![notifications](/images/ClassIsland/notifications.png)
 
 ### [自动化](https://docs.classisland.tech/app/automation.html)
 - 支持在特定时间节点或情况下执行特定操作，如切换组件配置、运行程序、显示提醒等
@@ -129,16 +129,16 @@ order: 2
 ### [插件](https://github.com/ClassIsland/PluginIndex)
 - 支持通过安装插件的方式扩展应用功能，如添加更多新组件、自动化行动、规则集规则、提醒提供方、认证提供方等
 - 可在应用内的插件市场中安装插件或从本地安装
-![plug-in-market](images/plug-in-market.png)
+![plug-in-market](/images/ClassIsland/plug-in-market.png)
 
 ## 更多功能
 - [回声洞](https://docs.qq.com/sheet/DS3pQdk5IRmZnbmhu)、[调试菜单](https://docs.classisland.tech/app/advanced.html#%E8%B0%83%E8%AF%95%E8%8F%9C%E5%8D%95)
-![debug](images/debug.png)
+![debug](/images/ClassIsland/debug.png)
 - [从壁纸提取主题色](https://docs.classisland.tech/app/advanced.html#%E4%BB%8E%E5%A3%81%E7%BA%B8%E6%8F%90%E5%8F%96%E4%B8%BB%E9%A2%98%E8%89%B2)
 - 运行保障
   - 支持在发生崩溃时自动退出，不影响教学任务
   - [应用数据备份](https://docs.classisland.tech/app/backup.html)
-    ![backup](images/backup.png)
+    ![backup](/images/ClassIsland/backup.png)
 - 自动时间同步
   - 支持自动从公开的 NTP 服务器或学校广播服务器的 NTP 服务同步时间，提高提醒等功能与学校铃声的同步性
   - 支持自定义时间偏移和自动调整时间偏移

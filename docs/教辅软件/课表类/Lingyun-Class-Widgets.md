@@ -10,7 +10,7 @@ order: 4
 
 <ArticleMetadata />
 
-![Banner](images/banner.png)
+![Banner](/images/LingYun-Class-Widgets/banner.png)
 
 [![stars](https://img.shields.io/github/stars/Yamikani-Flipped/LingYun-Class-Widgets?label=Stars)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets) [![forks](https://img.shields.io/github/forks/Yamikani-Flipped/LingYun-Class-Widgets?label=Forks)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets) [![Watchers](https://img.shields.io/github/watchers/Yamikani-Flipped/LingYun-Class-Widgets?style=social)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/watchers) [![Downloads](https://img.shields.io/github/downloads/Yamikani-Flipped/LingYun-Class-Widgets/total?style=social&label=Downloads&logo=github)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/releases/latest) [![GitHub Issues](https://img.shields.io/github/issues-search/Yamikani-Flipped/LingYun-Class-Widgets?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/issues) [![Release](https://img.shields.io/github/v/release/Yamikani-Flipped/LingYun-Class-Widgets?style=flat&color=%233fb950&label=正式版)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/releases/latest)  [![Beta](https://img.shields.io/github/v/release/Yamikani-Flipped/LingYun-Class-Widgets?include_prereleases&style=flat&label=测试版)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/releases) [![Created At](https://img.shields.io/github/created-at/Yamikani-Flipped/LingYun-Class-Widgets)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets) [![Github Last Commit](https://img.shields.io/github/last-commit/Yamikani-Flipped/LingYun-Class-Widgets)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/commits/main/) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/blob/main/LICENSE) [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C917509031-blue?style=flat&logo=QQ)](https://qm.qq.com/q/BDeDL7K8kE) [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C%E7%8E%8B%E6%A3%8B%E7%88%B1%E7%A7%91%E6%8A%80-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/627622081)
 
@@ -39,19 +39,19 @@ GitHub仓库：[https://github.com/Yamikani-Flipped/LingYun-Class-Widgets](https
 ::: code-group
 
 ```md:img [编辑课表]
-![编辑课表](images/1.png)
+![编辑课表](/images/LingYun-Class-Widgets/1.png)
 ```
 
 ```md:img [关于]
-![关于](images/2.png)
+![关于](/images/LingYun-Class-Widgets/2.png)
 ```
 
 ```md:img [息屏模式]
-![息屏模式](images/3.png)
+![息屏模式](/images/LingYun-Class-Widgets/3.png)
 ```
 
 ```md:img [深色模式]
-![深色模式](images/4.png)
+![深色模式](/images/LingYun-Class-Widgets/4.png)
 ```
 
 :::
