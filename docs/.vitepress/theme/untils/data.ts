@@ -2,7 +2,7 @@ import type { NavData } from './types'
 
 export const NAV_DATA: NavData[] = [
   {
-    title: '📊 课表表',
+    title: '📊 课表类',
     items: [
       {
         icon: '/icon/CSES.png',
