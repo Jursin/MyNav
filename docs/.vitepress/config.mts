@@ -11,8 +11,11 @@ export default defineConfig({
   themeConfig: {    
     // 导航栏配置
     nav: [
-      { text: '', link: '/' },
-      { text: '关于', link: '/about' }
+      { text: '教辅软件', link: '/' },
+      { text: '开发工具', link: '/开发工具' },
+      { text: '资源网站', link: '/资源网站' },
+      { text: '关于', link: '/about' },
+      { text: '个人博客', link: 'https://blog.jursin.top/' },
     ],
 
     // 侧边栏配置
@@ -35,7 +38,7 @@ export default defineConfig({
       // capitalizeEachWords: false,
       collapsed: true,
       collapseDepth: 1,
-      sortFolderTo: 'bottom',
+      sortFolderTo: 'top',
       // sortMenusByName: false,
       sortMenusByFrontmatterOrder: true,
       // sortMenusByFrontmatterDate: false,
@@ -43,10 +46,10 @@ export default defineConfig({
       // sortMenusOrderNumericallyFromTitle: false,
       // sortMenusOrderNumericallyFromLink: false,
       // frontmatterOrderDefaultValue: 0,
-      manualSortFileNameByPriority: ['课表类', '多功能类', '看板类', '批注类', '下载类', '杂类'],
+      manualSortFileNameByPriority: ['课表类', '多功能类', '看板类', '批注类', '下载类', '杂类', '开发工具.md', '资源网站.md', ,'about.md'],
       // removePrefixAfterOrdering: false, //删除前缀，必须与prefixSeparator一起使用
       // prefixSeparator: '.', //删除前缀的符号
-      excludePattern: ['ExtraIsland.md'],
+      excludePattern: ['ExtraIsland.md', 'smart-questions.md'],
       // excludeFilesByFrontmatterFieldName: 'exclude',
       // includeDotFiles: false,
       // includeRootIndexFile: false,

@@ -10,6 +10,7 @@ order: 4
 
 <ArticleMetadata />
 
+::: details
 ![toolbar](/images/InkCanvasForClass/toolbar.png)
 
 ![board](/images/InkCanvasForClass/board.png)
@@ -19,6 +20,7 @@ order: 4
 一款基于[Ink-Canvas-Artistry](https://github.com/ChangSakura/Ink-Canvas)的开源易用的电子教鞭软件，专为课堂教学场景优化设计
 
 原 GitHub 仓库：[https://github.com/InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass)**（已存档）**
+:::
 
 </div>
 
@@ -37,7 +39,9 @@ order: 4
 ## <badge type="tip" text="社区版本" /> [InkCanvasForClass Community Edition](https://github.com/InkCanvasForClass/community)
 在 [`icc-20240610-stable`](https://github.com/Awesome-Iwb/icc-20240610-stable) 基础上二次开发的又一个版本，目前仍在积极维护
 
-[![stars](https://img.shields.io/github/stars/InkCanvasForClass/community?label=Stars)](https://github.com/InkCanvasForClass/community) [![forks](https://img.shields.io/github/forks/InkCanvasForClass/community?label=Forks)](https://github.com/InkCanvasForClass/community) [![Watchers](https://img.shields.io/github/watchers/InkCanvasForClass/community?style=social)](https://github.com/InkCanvasForClass/community/watchers) [![Downloads](https://img.shields.io/github/downloads/InkCanvasForClass/community/total?style=social&label=Downloads&logo=github)](https://github.com/InkCanvasForClass/community/releases/latest) [![GitHub Issues](https://img.shields.io/github/issues-search/InkCanvasForClass/community?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/InkCanvasForClass/community/issues) [![Release](https://img.shields.io/github/v/release/InkCanvasForClass/community?style=flat&color=%233fb950&label=正式版)](https://github.com/InkCanvasForClass/community/releases/latest) [![Created At](https://img.shields.io/github/created-at/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community) [![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community/commits/master/) [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C1054377349-blue?style=flat&logo=QQ)](https://qm.qq.com/q/qo32AclNh6)
+[![stars](https://img.shields.io/github/stars/InkCanvasForClass/community?label=Stars)](https://github.com/InkCanvasForClass/community) [![forks](https://img.shields.io/github/forks/InkCanvasForClass/community?label=Forks)](https://github.com/InkCanvasForClass/community) [![Watchers](https://img.shields.io/github/watchers/InkCanvasForClass/community?style=social)](https://github.com/InkCanvasForClass/community/watchers) [![Downloads](https://img.shields.io/github/downloads/InkCanvasForClass/community/total?style=social&label=Downloads&logo=github)](https://github.com/InkCanvasForClass/community/releases/latest) [![GitHub Issues](https://img.shields.io/github/issues-search/InkCanvasForClass/community?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/InkCanvasForClass/community/issues) [![Release](https://img.shields.io/github/v/release/InkCanvasForClass/community?style=flat&color=%233fb950&label=正式版)](https://github.com/InkCanvasForClass/community/releases/latest) [![Created At](https://img.shields.io/github/created-at/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community) [![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community/commits/master/) [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C1054377349-blue?style=flat&logo=QQ)](https://qm.qq.com/q/qo32AclNh6) [![Discord](https://img.shields.io/badge/-Discord%EF%BD%9CXzwQWcBqTK-white?style=flat&logo=Discord)](https://discord.gg/XzwQWcBqTK)
+
+[官网](https://www.iccce.dpdns.org/)｜[文档站](https://inkcanvasforclass.github.io/website)｜[智教联盟板块](https://forum.smart-teach.cn/t/icc-ce)
 
 </div>
 
