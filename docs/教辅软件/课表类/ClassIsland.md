@@ -27,7 +27,7 @@ order: 2
 
 <GitHubCard owner="ClassIsland" repo="ClassIsland" />
 
-<Linkcard url="https://classisland.tech/" title="ClassIsland 官网" description="https://classisland.tech/" logo="" />
+<Linkcard url="https://classisland.tech/" title="ClassIsland 官网" description="https://classisland.tech/" logo="/icon/ClassIsland.png" />
 
 ## [主界面](https://docs.classisland.tech/app/basic.html#%E4%B8%BB%E7%95%8C%E9%9D%A2)
 
