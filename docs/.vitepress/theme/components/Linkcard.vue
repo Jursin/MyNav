@@ -16,9 +16,8 @@ const props = withDefaults(defineProps<Props>(), {
     logo: '',
 })
 
-const theme = useData()
-const isDark = computed(() => theme.value.appearance === 'dark' || theme.value.darkMode)
-const cardBackground = computed(() => isDark.value ? '#1e1e1e' : '#ffffff')
+const { theme } = useData()
+const isDark = computed(() => theme.value.isDark)
 </script>
 
 <template>
@@ -44,7 +43,7 @@ const cardBackground = computed(() => isDark.value ? '#1e1e1e' : '#ffffff')
 <style scoped>
 /* 卡片基础样式 */
 .linkcard {
-    background-color: v-bind(cardBackground);
+    background-color: var(--vp-c-bg);
     border-radius: 12px;
     padding: 16px;
     transition: all 0.3s ease;
@@ -77,7 +76,7 @@ const cardBackground = computed(() => isDark.value ? '#1e1e1e' : '#ffffff')
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(135deg, #f5f5f5 0%, #e0e0e0 100%);
+    background: var(--vp-c-bg-alt);
     border-radius: 8px;
     margin-right: 16px;
 }
@@ -91,7 +90,7 @@ const cardBackground = computed(() => isDark.value ? '#1e1e1e' : '#ffffff')
 
 /* 备用图标样式 */
 .fallback-icon {
-    color: #666;
+    color: var(--vp-c-text-2);
     font-size: 28px;
 }
 

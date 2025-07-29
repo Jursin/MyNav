@@ -20,19 +20,19 @@
       </div>
       
       <div class="stats">
-        <div class="stat-item">
+        <div class="stat-item" @click="starRepo">
           <i class="fas fa-star"></i>
           <span>星标 {{ repoData.stargazers_count }}</span>
         </div>
-        <div class="stat-item">
+        <div class="stat-item" @click="forkRepo">
           <i class="fas fa-code-branch"></i>
           <span>复刻 {{ repoData.forks_count }}</span>
         </div>
-        <div class="stat-item">
+        <div class="stat-item" @click="watchRepo">
           <i class="fas fa-eye"></i>
           <span>关注 {{ repoData.watchers_count }}</span>
         </div>
-        <div class="stat-item" v-if="repoData.license">
+        <div class="stat-item" v-if="repoData.license" @click="viewLicense">
           <i class="fas fa-balance-scale"></i>
           <span>{{ repoData.license.spdx_id }}</span>
         </div>
@@ -46,11 +46,11 @@
         <div class="dates" :class="{ 'no-language': !repoData.language }">
           <span class="created">
             <i class="fas fa-calendar-plus"></i>
-            创建于 {{ formatDate(repoData.created_at) }}
+            创建于：{{ formatDate(repoData.created_at) }}
           </span>
           <span class="updated">
             <i class="fas fa-clock"></i>
-            更新于 {{ formatDate(repoData.updated_at) }}
+            更新于：{{ formatDate(repoData.updated_at) }}
           </span>
           <span class="branch">
             <i class="fas fa-code-branch"></i>
@@ -110,6 +110,24 @@ export default {
     },
     getLanguageColor(language) {
       return this.languageColors[language] || '#ccc'
+    },
+    starRepo() {
+      // 跳转到GitHub星标页面
+      window.open(this.repoData.html_url, '_blank')
+    },
+    forkRepo() {
+      // 跳转到GitHub复刻页面
+      window.open(`${this.repoData.html_url}/fork`, '_blank')
+    },
+    watchRepo() {
+      // 跳转到GitHub关注页面
+      window.open(`${this.repoData.html_url}/watchers`, '_blank')
+    },
+    viewLicense() {
+      // 跳转到许可证文件
+      if (this.repoData.license && this.repoData.license.key) {
+        window.open(`${this.repoData.html_url}/blob/master/LICENSE`, '_blank')
+      }
     }
   }
 }
@@ -118,7 +136,7 @@ export default {
 <style scoped>
 .github-card {
   border: 1px solid var(--vp-c-divider);
-  border-radius: 6px;
+  border-radius: 12px;
   padding: 16px;
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   position: relative;
@@ -129,11 +147,19 @@ export default {
   max-width: 800px;
 }
 
+.github-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1),
+              0 12px 24px rgba(0, 0, 0, 0.05);
+  border-color: var(--vp-c-brand-light);
+}
+
 .loading-spinner, .error-message {
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 20px;
+  border-radius: 12px;
 }
 
 .error-message {
@@ -151,6 +177,12 @@ export default {
   height: 60px;
   border-radius: 50%;
   margin-right: 12px;
+  border: 2px solid var(--vp-c-brand-light);
+  transition: transform 0.3s ease;
+}
+
+.github-card:hover .avatar {
+  transform: scale(1.05);
 }
 
 .repo-info h3 {
@@ -161,9 +193,11 @@ export default {
 .repo-info h3 a {
   color: var(--vp-c-brand);
   text-decoration: none;
+  transition: color 0.3s ease;
 }
 
 .repo-info h3 a:hover {
+  color: var(--vp-c-brand-light);
   text-decoration: underline;
 }
 
@@ -178,6 +212,7 @@ export default {
   justify-content: space-between;
   margin: 16px 8px;
   flex-wrap: wrap;
+  gap: 8px;
 }
 
 .stat-item {
@@ -185,11 +220,26 @@ export default {
   align-items: center;
   font-size: 16px;
   color: var(--vp-c-text-2);
+  padding: 6px 12px;
+  border-radius: 6px;
+  background-color: var(--vp-c-bg-alt);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.stat-item:hover {
+  background-color: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+}
+
+.github-card:hover .stat-item {
+  background-color: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
 }
 
 .stat-item i {
   margin-right: 4px;
-  color: var(--vp-c-text-3);
+  color: var(--vp-c-brand);
 }
 
 .footer {
@@ -200,11 +250,15 @@ export default {
   color: var(--vp-c-text-2);
   border-top: 1px solid var(--vp-c-divider);
   padding-top: 16px;
+  margin-top: 16px;
 }
 
 .language {
   display: flex;
   align-items: center;
+  padding: 4px 8px;
+  border-radius: 6px;
+  background-color: var(--vp-c-bg-alt);
 }
 
 .dates {
@@ -232,5 +286,43 @@ export default {
 
 .fas {
   font-size: 16px;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  .github-card {
+    border-radius: 10px;
+    padding: 12px;
+  }
+  
+  .avatar {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .repo-info h3 {
+    font-size: 18px;
+  }
+  
+  .description {
+    font-size: 14px;
+  }
+  
+  .stats {
+    flex-direction: column;
+    gap: 6px;
+  }
+  
+  .footer {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  
+  .dates {
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+  }
 }
 </style>

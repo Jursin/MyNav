@@ -5,7 +5,7 @@ export const NAV_DATA: NavData[] = [
     title: '📊 课表类',
     items: [
       {
-        icon: '/icon/CSES.png',
+        icon: '/svg/pen-to-square-solid-full.svg',
         title: 'CSES 课程表编辑器',
         desc: '',
         link: '/教辅软件/课表类/CSES'
@@ -79,7 +79,7 @@ export const NAV_DATA: NavData[] = [
         link: '/教辅软件/看板类/Exam-Showboard'
       },
       {
-        icon: '/icon/ExamAware2-Desktop.png',
+        icon: '/icon/ExamAware.png',
         title: 'ExamAware2-Desktop',
         badge: {
           text: '🔧 未完工',
@@ -95,7 +95,7 @@ export const NAV_DATA: NavData[] = [
         link: '/教辅软件/看板类/ExamSchedule'
       },
       {
-        icon: '',
+        icon: '/icon/ExamAware.png',
         title: 'ExamSchedule-Management',
         desc: '',
         link: '/教辅软件/看板类/ExamSchedule-Management'
@@ -107,7 +107,7 @@ export const NAV_DATA: NavData[] = [
         link: '/教辅软件/看板类/Sticky-attention'
       },
       {
-        icon: '/icon/HomeworkBoard.png',
+        icon: '/svg/vite.svg',
         title: 'HomeworkBoard',
         desc: '',
         link: '/教辅软件/看板类/HomeworkBoard'
@@ -182,7 +182,7 @@ export const NAV_DATA: NavData[] = [
         link: '/教辅软件/批注类/Inkways-Classic'
       },
       {
-        icon: '/icon/LemonxNote.png',
+        icon: '/lemonxnote.ico',
         title: 'LemonxNote',
         desc: '',
         link: '/教辅软件/批注类/LemonxNote'

@@ -61,19 +61,21 @@ const formatBadge = computed(() => {
   --m-nav-box-gap: 12px;
 
   display: block;
-  border: 1px solid var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
   border-radius: 12px;
   height: 100%;
-  background-color: var(--vp-c-bg-soft);
+  background-color: var(--vp-c-bg);
   transition: all 0.25s;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  text-decoration: none !important;
 }
 
 .m-nav-link:hover {
-  box-shadow: var(--vp-shadow-2);
-  border-color: var(--vp-c-brand);
-  text-decoration: initial;
-  background-color: var(--vp-c-bg-soft-up);
-  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1),
+              0 12px 24px rgba(0, 0, 0, 0.05);
+  border-color: var(--vp-c-brand-light);
+  background-color: var(--vp-c-bg-soft);
+  transform: translateY(-2px);
 }
 
 .m-nav-link .box {
@@ -99,12 +101,16 @@ const formatBadge = computed(() => {
   justify-content: center;
   align-items: center;
   margin-right: calc(var(--m-nav-box-gap) - 2px);
-  border-radius: 6px;
+  border-radius: 8px;
   width: var(--m-nav-icon-box-size);
   height: var(--m-nav-icon-box-size);
   font-size: var(--m-nav-icon-size);
-  background-color: var(--vp-c-bg-soft-down);
-  transition: background-color 0.25s;
+  background-color: var(--vp-c-bg-alt);
+  transition: all 0.25s;
+}
+
+.m-nav-link:hover .icon {
+  background-color: var(--vp-c-bg-soft);
 }
 
 .m-nav-link .icon svg {
@@ -113,10 +119,9 @@ const formatBadge = computed(() => {
 }
 
 .m-nav-link .icon img {
-  border-radius: 4px;
+  border-radius: 6px;
   width: var(--m-nav-icon-size);
 }
-
 
 .m-nav-link .title {
   overflow: hidden;
@@ -125,13 +130,15 @@ const formatBadge = computed(() => {
   text-overflow: ellipsis;
   font-size: 16px;
   font-weight: 600;
+  color: var(--vp-c-text-1);
+  text-decoration: none !important;
 }
 
 .m-nav-link .badge {
   position: absolute;
   top: 2px;
   right: 0;
-  transform: scale(0.8);
+  transform: scale(0.9);
 }
 
 .m-nav-link .desc {
@@ -144,16 +151,15 @@ const formatBadge = computed(() => {
   color: var(--vp-c-text-2);
 }
 
-
 @media (max-width: 960px) {
   .m-nav-link {
     --m-nav-icon-box-size: 60px;
     --m-nav-icon-size: 60px;
-    --m-nav-box-gap: 15px
+    --m-nav-box-gap: 15px;
   }
 
   .m-nav-link .title {
-    font-size: 16px
+    font-size: 16px;
   }
 }
 </style>

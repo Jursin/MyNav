@@ -163,3 +163,6 @@ order: 2
 - [官方集控服务器](https://github.com/ClassIsland/ManagementServer)***（🚧开发中）***
 - [基于 Python 的第三方集控服务器](https://github.com/kaokao221/ClassIslandManagementServer.py)
 - [开始使用](https://docs.classisland.tech/management/#%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8)
+
+## 宣传视频
+<BilibiliVideo bvid="BV1EEsNeYEc9" />

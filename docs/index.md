@@ -45,7 +45,7 @@ import { NAV_DATA } from '/.vitepress/theme/untils/data'
 <Linkcard url="/smart-questions" title="提问的智慧" description="教你如何正确地提问" logo="/www.catb.org.ico"/>
 
 ::: info 👋同类项目
-<GitHubCard owner="Awesome-Iwb" repo="Awesome-Iwb" size="big" />
+<GitHubCard owner="Awesome-Iwb" repo="Awesome-Iwb" />
 :::
 
 ::: details 宣传片&交流平台

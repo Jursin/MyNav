@@ -12,7 +12,11 @@ order: 1
 
 ![banner](/images/Ris_Classtool/banner.png)
 
-[![stars](https://img.shields.io/github/stars/Ris-Soft/Ris_ClassTool?label=Stars)](https://github.com/Ris-Soft/Ris_ClassTool) [![forks](https://img.shields.io/github/forks/Ris-Soft/Ris_ClassTool?label=Forks)](https://github.com/Ris-Soft/Ris_ClassTool) [![Watchers](https://img.shields.io/github/watchers/Ris-Soft/Ris_ClassTool?style=social)](https://github.com/Ris-Soft/Ris_ClassTool/watchers) [![Downloads](https://img.shields.io/github/downloads/Ris-Soft/Ris_ClassTool/total?style=social&label=Downloads&logo=github)](https://github.com/Ris-Soft/Ris_ClassTool/releases/latest) [![GitHub Issues](https://img.shields.io/github/issues-search/Ris-Soft/Ris_ClassTool?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/Ris-Soft/Ris_ClassTool/issues) [![Release](https://img.shields.io/github/v/release/Ris-Soft/Ris_ClassTool?style=flat&color=%233fb950&label=正式版)](https://github.com/Ris-Soft/Ris_ClassTool/releases/latest) [![Beta](https://img.shields.io/github/v/release/Ris-Soft/Ris_ClassTool?include_prereleases&style=flat&color=orange&label=测试版)](https://github.com/Ris-Soft/Ris_ClassTool/releases) [![Created At](https://img.shields.io/github/created-at/Ris-Soft/Ris_ClassTool)](https://github.com/Ris-Soft/Ris_ClassTool) [![Github Last Commit](https://img.shields.io/github/last-commit/Ris-Soft/Ris_ClassTool)](https://github.com/Ris-Soft/Ris_ClassTool/commits/master) ![Html + CSS + JavaScript](https://img.shields.io/badge/HTML%20%2B%20CSS%20%2B%20JavaScript-E34F26?logo=html5&logoColor=white&style=flat) [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/Ris-Soft/Ris_ClassTool/blob/master/LICENSE) [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C939571490-blue?style=flat&logo=QQ)](https://qm.qq.com/q/nl64TDpnk6) [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CPYLXU-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1481617182)
+[![Downloads](https://img.shields.io/github/downloads/Ris-Soft/Ris_ClassTool/total?style=social&label=Downloads&logo=github)](https://github.com/Ris-Soft/Ris_ClassTool/releases/latest)
+[![Release](https://img.shields.io/github/v/release/Ris-Soft/Ris_ClassTool?style=flat&color=%233fb950&label=正式版)](https://github.com/Ris-Soft/Ris_ClassTool/releases/latest)
+[![Beta](https://img.shields.io/github/v/release/Ris-Soft/Ris_ClassTool?include_prereleases&style=flat&color=orange&label=测试版)](https://github.com/Ris-Soft/Ris_ClassTool/releases)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C939571490-blue?style=flat&logo=QQ)](https://qm.qq.com/q/nl64TDpnk6)
+[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CPYLXU-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1481617182)
 
 智慧教育，触手可及。
 
@@ -38,3 +42,6 @@ order: 1
 - 🤖 **自动任务智能省心**：课前自动返回桌面，自习课自动专注模式，放学自动关机，让教学流程更加流畅。
   ![自动任务](https://app.3r60.top/assets/img/screenshots/Ris_ClassTool/fb7ade3cf5b4272954810b69ca432b76.png)
 - 📆 **灵活调休安排**：支持按日期调休，适应各种教学计划变动。
+
+## 宣传视频
+<BilibiliVideo bvid="BV1A96SYHEnz" />
