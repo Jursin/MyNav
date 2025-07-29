@@ -18,9 +18,9 @@ order: 2
 
 一款方便、快捷下载适合班级一体机使用的各类软件的下载器
 
-GitHub仓库：[https://github.com/CNwenwen/SeewoHUB](https://github.com/CNwenwen/SeewoHUB)
-
 </div>
+
+<GitHubCard owner="CNwenwen" repo="SeewoHUB" />
 
 ::: warning
 **此项目仍在早期开发中，使用过程中可能会遇到一些未知的问题！**

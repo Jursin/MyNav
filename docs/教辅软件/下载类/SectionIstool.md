@@ -18,9 +18,9 @@ order: 1
 
 一款方便、快捷下载适合班级一体机使用的各类软件的下载器
 
-GitHub仓库：[https://github.com/SECTL/SectionIstool](https://github.com/SECTL/SectionIstool)
-
 </div>
+
+<GitHubCard owner="SECTL" repo="SectionIstool" />
 
 ::: warning
 **此项目仍在早期开发中，使用过程中可能会遇到一些未知的问题！**

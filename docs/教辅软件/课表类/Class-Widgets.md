@@ -16,9 +16,9 @@ order: 3
 
 一款全新课表软件｜[官方网站](https://classwidgets.rinlit.cn/zh/)｜[使用文档](https://classwidgets.rinlit.cn/docs-user)
 
-GitHub仓库：[https://github.com/Class-Widgets/Class-Widgets](https://github.com/Class-Widgets/Class-Widgets)
-
 </div>
+
+<GitHubCard owner="Class-Widgets" repo="Class-Widgets" />
 
 ## 主界面
 ![主界面](https://classwidgets.rinlit.cn/_astro/desktop.W-gixhu7.png)

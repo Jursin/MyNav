@@ -16,9 +16,9 @@ order: 3
 
 一个实用的班级信息看板
 
-GitHub仓库：[https://github.com/Return-Log/Education-Clock](https://github.com/Return-Log/Education-Clock)
-
 </div>
+
+<GitHubCard owner="Return-Log" repo="Education-Clock" />
 
 ## 功能
 - 桌面时钟

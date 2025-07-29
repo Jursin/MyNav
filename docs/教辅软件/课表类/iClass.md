@@ -16,9 +16,9 @@ order: 6
 
 原名 **ESC++，iMagicTools** ，一个简单的课表软件，使用 Electron 框架
 
-GitHub仓库：[https://github.com/gpuawa/iClass](https://github.com/gpuawa/iClass)
-
 </div>
+
+<GitHubCard owner="gpuawa" repo="iClass" />
 
 ## 功能
 - 展示当日课程、当前状态倒计时、星期、天气、一言

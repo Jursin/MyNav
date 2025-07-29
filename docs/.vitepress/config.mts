@@ -7,8 +7,13 @@ export default defineConfig({
   title: "我的导航站",
   description: "",
   base: '/',
+  head: [
+    ['link', { rel: 'icon', href: '/nav.png' }]
+  ],
 
-  themeConfig: {    
+  themeConfig: {
+    logo: '/nav.png',
+    
     // 导航栏配置
     nav: [
       { text: '教辅软件', link: '/' },

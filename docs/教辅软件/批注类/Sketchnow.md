@@ -18,9 +18,9 @@ order: 5
 
 [Releases](https://github.com/SketchNow/SketchNow.WPF/releases)｜[Actions](https://github.com/SketchNow/SketchNow.WPF/actions)｜[Upcoming](https://github.com/orgs/SketchNow/projects)
 
-GitHub仓库：[https://github.com/SketchNow/SketchNow.WPF](https://github.com/SketchNow/SketchNow.WPF)
-
 </div>
+
+<GitHubCard owner="SketchNow" repo="SketchNow.WPF" />
 
 ::: warning 注意
 当前仍在开发阶段。为避免潜在风险，请勿在生产环境中安装！

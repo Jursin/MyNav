@@ -20,12 +20,12 @@ order: 5
 
 [使用说明](https://github.com/EnderWolf006/ElectronClassSchedule?tab=readme-ov-file#%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E)｜[v2使用说明](https://github.com/EnderWolf006/ElectronClassSchedule/tree/ECS2.0?tab=readme-ov-file#%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E)
 
-GitHub仓库：[https://github.com/EnderWolf006/ElectronClassSchedule](https://github.com/EnderWolf006/ElectronClassSchedule)
-
 </div>
 
+<GitHubCard owner="EnderWolf006" repo="ElectronClassSchedule" />
+
 ::: tip 注意
-默认分支为 [ECS v1](https://github.com/EnderWolf006/ElectronClassSchedule/) ，如无严重漏洞作者将不会继续维护更新。 [ECS v2](https://github.com/EnderWolf006/ElectronClassSchedule/tree/ECS2.0) 正在开发中，将由 [@AwA](https://github.com/aawwaaa) 与作者 [EnderWolf006](https://github.com/EnderWolf006) 继续维护。
+默认分支为[ECS v1](https://github.com/EnderWolf006/ElectronClassSchedule/)，如无严重漏洞作者将不会继续维护更新。[ECS v2](https://github.com/EnderWolf006/ElectronClassSchedule/tree/ECS2.0)正在开发中，将由[@AwA](https://github.com/aawwaaa)与作者 [EnderWolf006](https://github.com/EnderWolf006)继续维护。
 :::
 
 ## 功能

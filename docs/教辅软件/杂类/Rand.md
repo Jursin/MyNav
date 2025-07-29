@@ -14,9 +14,9 @@ order: 2
 
 一款美观、易用、强大的抽号软件
 
-GitHub仓库：[https://github.com/LuoYunXi0407/Rand](https://github.com/LuoYunXi0407/Rand)
-
 </div>
+
+<GitHubCard owner="LuoYunXi0407" repo="Rand" />
 
 ## 主界面
 

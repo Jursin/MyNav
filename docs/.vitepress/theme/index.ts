@@ -10,10 +10,11 @@ import '@fortawesome/fontawesome-free/css/all.min.css'
 import mediumZoom from 'medium-zoom'
 import { onMounted, watch, nextTick } from 'vue'
 import BilibiliVideo from './components/BilibiliVideo.vue'
-import backtotop from "./components/backtotop.vue";
-import Linkcard from "./components/Linkcard.vue"
-import ArticleMetadata from "./components/ArticleMetadata.vue"
+import backtotop from './components/backtotop.vue'
+import Linkcard from './components/Linkcard.vue'
+import ArticleMetadata from './components/ArticleMetadata.vue'
 import MNavLinks from './components/MNavLinks.vue'
+import GitHubCard from './components/GitHubCard.vue'
 import busuanzi from 'busuanzi.pure.js'
 
 export default {
@@ -37,7 +38,9 @@ export default {
     app.component('BilibiliVideo', BilibiliVideo);
     app.component('Linkcard' , Linkcard);
     app.component('ArticleMetadata' , ArticleMetadata);
-    app.component('MNavLinks' , MNavLinks)
+    app.component('MNavLinks' , MNavLinks);
+    app.component('GitHubCard' , GitHubCard)
+
     if (inBrowser) {
       router.onAfterRouteChanged = () => {
         busuanzi.fetch()

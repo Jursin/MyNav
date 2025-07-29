@@ -20,9 +20,9 @@ order: 3
 
 [常见问题](https://github.com/InkCanvas/Ink-Canvas-Artistry?tab=readme-ov-file#-faq)｜[最新测试版下载](https://www.123912.com/s/0l7bVv-kkdAh)
 
-GitHub仓库：[https://github.com/ChangSakura/Ink-Canvas](https://github.com/ChangSakura/Ink-Canvas)
-
 </div>
+
+<GitHubCard owner="ChangSakura" repo="Ink-Canvas" />
 
 ::: warning
 最新测试版新增插入图片功能，但经测试在批注时存在非正常变为擦除状态（实际仍为批注状态），如果需要使用测试版请实机测试后再决定是否正式使用。

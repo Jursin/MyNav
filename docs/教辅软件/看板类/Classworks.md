@@ -20,6 +20,8 @@ GitHub仓库：[https://github.com/ClassworksDev/Classworks](https://github.com/
 
 </div>
 
+<GitHubCard owner="ClassworksDev" repo="Classworks" />
+
 <Linkcard url="https://zerocat.houlangs.com/" title="Classworks 官网" description="https://zerocat.houlangs.com/" logo="/icon/Classworks.png"/>
 
 ## ✨ 特性

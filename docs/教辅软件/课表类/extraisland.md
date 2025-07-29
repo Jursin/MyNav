@@ -8,9 +8,11 @@
 
 ExtraIsland 是一款 ClassIsland 的实用插件，增加了更好的倒计日、流畅时钟、名句一言、值日表、Sleepy（开发中） 等组件及换届导引等功能。
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/LiPolymer/ExtraIsland) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/LiPolymer/ExtraIsland)｜[官方文档](https://docs.lipoly.ink/ExtraIsland/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/LiPolymer/ExtraIsland)｜[官方文档](https://docs.lipoly.ink/ExtraIsland/)
 
 </div>
+
+<GitHubCard owner="LiPolymer" repo="ExtraIsland" />
 
 ## 功能
 

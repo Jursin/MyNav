@@ -1,5 +1,5 @@
 ---
-order: 5s
+order: 5
 ---
 
 <div align="center">
@@ -20,9 +20,9 @@ order: 5s
 
 Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示工具，可以展示各科作业等信息，后续将添加更多新内容。
 
-GitHub仓库：[https://github.com/Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention)
-
 </div>
+
+<GitHubCard owner="Sticky-attention" repo="Sticky-attention" />
 
 ## 功能
 

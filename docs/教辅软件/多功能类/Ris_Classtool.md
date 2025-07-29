@@ -18,9 +18,9 @@ order: 1
 
 ——让每堂课都充满活力，让每个学生都能享受到科技带来的教育革新。
 
-GitHub仓库：[https://github.com/Ris-Soft/Ris_ClassTool](https://github.com/Ris-Soft/Ris_ClassTool)
-
 </div>
+
+<GitHubCard owner="Ris-Soft" repo="Ris_ClassTool" />
 
 <Linkcard url="https://app.3r60.top/Ris_ClassTool" title="Ris_ClassTool 官网" description="https://app.3r60.top/Ris_ClassTool" logo="/icon/Ris_ClassTool.png"/>
 

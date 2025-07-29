@@ -16,9 +16,9 @@ order: 6
 
 [使用说明](https://github.com/EnderWolf006/HomeworkBoard?tab=readme-ov-file#%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E)
 
-GitHub仓库：[https://github.com/EnderWolf006/HomeworkBoard](https://github.com/EnderWolf006/HomeworkBoard)
-
 </div>
+
+<GitHubCard owner="EnderWolf006" repo="HomeworkBoard" />
 
 ::: tip
 该项目作者已停更，建议使用 [Classworks](/教辅软件/看板类/Classworks) 。

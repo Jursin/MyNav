@@ -16,9 +16,9 @@ order: 4
 
 一款功能丰富的桌面工具，支持在桌面显示各种组件，支持 CSES 通用课程表格式｜[官方网站](https://lingyun-6e2.pages.dev/)
 
-GitHub仓库：[https://github.com/Yamikani-Flipped/LingYun-Class-Widgets](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets)
-
 </div>
+
+<GitHubCard owner="Yamikani-Flipped" repo="LingYun-Class-Widgets" />
 
 ## 主要功能和特性
 - 桌面显示时间、日期

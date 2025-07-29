@@ -16,9 +16,9 @@ order: 2
 
 用于班级一体机的桌面小部件
 
-GitHub仓库：[https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
-
 </div>
+
+<GitHubCard owner="STBBRD" repo="ZongziTEK-Blackboard-Sticker" />
 
 <Linkcard url="https://zztek.top/" title="ZongziTEK 官网" description="https://zztek.top/" logo="/icon/ZongziTEK.png"/>
 

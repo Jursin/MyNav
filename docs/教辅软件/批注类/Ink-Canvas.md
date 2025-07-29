@@ -19,9 +19,9 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
 [使用指南](https://github.com/WXRIW/Ink-Canvas/blob/master/Manual.md/) | [常见问题](https://github.com/WXRIW/Ink-Canvas?tab=readme-ov-file#-faq)
 
-GitHub仓库：[https://github.com/WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas) 
-
 </div>
+
+<GitHubCard owner="WXRIW" repo="Ink-Canvas" />
 
 ## 模式
 - 幻灯片模式

@@ -18,6 +18,8 @@ order: 3
 
 </div>
 
+<GitHubCard owner="ExamAware" repo="ExamSchedule" />
+
 ## 功能
 
 - 当前时间

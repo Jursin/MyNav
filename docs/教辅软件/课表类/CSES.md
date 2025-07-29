@@ -14,9 +14,9 @@ order: 1
 
 一个基于 Web 的课程表编辑器，全称 Course Schedule Exchange Schema，支持 CSES 格式的课程表创建、管理和导出。｜[在线使用](https://edit.cses-org.cn/)
 
-GitHub 仓库：[https://github.com/SmartTeachCN/CsesWebEditor](https://github.com/SmartTeachCN/CsesWebEditor)
-
 </div>
+
+<GitHubCard owner="SmartTeachCN" repo="CsesWebEditor" />
 
 ## 功能特性
 

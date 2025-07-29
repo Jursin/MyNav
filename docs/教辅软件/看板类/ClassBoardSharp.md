@@ -16,9 +16,9 @@ order: 8
 
 一款高自由度的用于显示教学信息的壁纸软件
 
-GitHub仓库：[https://github.com/Candlest/ClassBoardSharp](https://github.com/Candlest/ClassBoardSharp)
-
 </div>
+
+<GitHubCard owner="Candlest" repo="ClassBoardSharp" />
 
 ## 功能
 - 课程表展示

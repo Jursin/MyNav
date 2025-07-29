@@ -14,6 +14,8 @@ ExamSchedule-Management 是一个基于 PHP + SQLite 的考试看板与排考管
 
 </div>
 
+<GitHubCard owner="ExamAware" repo="ExamSchedule-Management" />
+
 ## 主要功能
 
 - **考试看板主页**：输入配置ID，查询并高亮显示考试安排 JSON，支持一键放映。

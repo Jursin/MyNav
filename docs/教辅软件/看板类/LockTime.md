@@ -16,9 +16,9 @@ order: 9
 
 一个使用 Fluent UI 2 界面的时钟锁屏软件
 
-GitHub仓库：[https://github.com/cjhdevact/LockTime](https://github.com/cjhdevact/LockTime)
-
 </div>
+
+<GitHubCard owner="cjhdevact" repo="LockTime" />
 
 ## 功能
 - 显示时间

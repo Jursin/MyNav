@@ -25,9 +25,9 @@ order: 1
 
 [网页版在线体验](http://examboard.cn/)｜[更多平台下载](https://www.123912.com/s/0l7bVv-6HdAh)
 
-GitHub仓库：[https://github.com/ExamAware/ExamShowboard-Legacy](https://github.com/ExamAware/ExamShowboard-Legacy)
-
 </div>
+
+<GitHubCard owner="ExamAware" repo="ExamShowboard-Legacy" />
 
 ## 功能
 

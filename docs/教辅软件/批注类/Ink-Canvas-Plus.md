@@ -16,11 +16,9 @@ Ink Canvas Plus (IC+) 是一款由 Clover Yan 维护、复刻自 [WXRIW/Ink Canv
 
 [使用指南](https://github.com/clover-yan/Ink-Canvas-Plus/blob/master/Manual.md/) | [常见问题](https://github.com/clover-yan/Ink-Canvas-Plus?tab=readme-ov-file#-faq)
 
-GitHub仓库：[https://github.com/clover-yan/Ink-Canvas-Plus](https://github.com/clover-yan/Ink-Canvas-Plus) 
-
-<LinkPreview href='' />
-
 </div>
+
+<GitHubCard owner="clover-yan" repo="Ink-Canvas-Plus" />
 
 <Linkcard url="https://www.khyan.top/apps/Ink-Canvas-Plus/" title="Ink-Canvas-Plus 官网" description="https://www.khyan.top/apps/Ink-Canvas-Plus/" logo="/icon/Ink-Canvas-Plus.png"/>
 

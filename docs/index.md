@@ -13,7 +13,7 @@ outline: [2, 3, 4]
 import { NAV_DATA } from '/.vitepress/theme/untils/data'
 </script>
 
-# Awesome Class Softwares
+# <img src="/acs.png" width="35" /> Awesome Class Softwares
 
 <ArticleMetadata />
 
@@ -45,7 +45,7 @@ import { NAV_DATA } from '/.vitepress/theme/untils/data'
 <Linkcard url="/smart-questions" title="提问的智慧" description="教你如何正确地提问" logo="/www.catb.org.ico"/>
 
 ::: info 👋同类项目
-[![Awesome-Iwb/Awesome-Iwb](https://github-readme-stats.vercel.app/api/pin/?username=Awesome-Iwb&repo=Awesome-Iwb&show_owner=true)](https://github.com/Awesome-Iwb/Awesome-Iwb)
+<GitHubCard owner="Awesome-Iwb" repo="Awesome-Iwb" size="big" />
 :::
 
 ::: details 宣传片&交流平台
@@ -66,12 +66,12 @@ import { NAV_DATA } from '/.vitepress/theme/untils/data'
 | [Ink-Canvas](https://github.com/WXRIW/Ink-Canvas) | | [891913576](https://jq.qq.com/?_wv=1027&k=NvlM1Rgg) | |
 | [Ink-Canvas-Plus](https://github.com/clover-yan/Ink-Canvas-Plus) | | [996760298](https://qm.qq.com/q/yVzprKLfbi) | |
 | [Ink-Canvas-Artistry](https://github.com/ChangSakura/Ink-Canvas) | | [617707731](https://qm.qq.com/q/AC777tzmEw) | |
-| [InkCanvasForClass Community Edition](https://github.com/InkCanvasForClass/community) | | [1054377349](https://qm.qq.com/q/GHhrl4hKG6) | |
-| [Inkeys](https://github.com/Alan-CRL/Inkeys) | [BV1Tz421z72e](https://www.bilibili.com/video/BV1Tz421z72e) | [618720802](https://qm.qq.com/q/iEDzSL0Wn) | |
+| [InkCanvasForClass Community Edition](https://github.com/InkCanvasForClass/community) | [BV1yH8ezcEKk](https://www.bilibili.com/video/BV1yH8ezcEKk) | [1054377349](https://qm.qq.com/q/GHhrl4hKG6) | |
+| [Inkeys](https://github.com/Alan-CRL/Inkeys) | [BV17duZzYEsE](https://www.bilibili.com/video/BV17duZzYEsE) | [618720802](https://qm.qq.com/q/iEDzSL0Wn) | |
 | [Inkways-Classic](https://github.com/iNKORE-NET/Inkways) | | [655979143](https://qm.qq.com/q/wzFUnRBF9C) [1nkoreStudios](https://pd.qq.com/s/g3o1pmidm) | [![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@iNKORE_Studios-blue?style=flat&logo=Telegram)](https://t.me/iNKORE)<br/>[![Facebook](https://img.shields.io/badge/-Facebook%EF%BD%9C@iNKORE_Studios-blue?style=flat&logo=Facebook)](https://www.facebook.com/iNKORE.NET)<br/>[![X](https://img.shields.io/badge/-X%EF%BD%9C@iNKORE_NET-black?style=flat&logo=X)](https://x.com/iNKORE_NET)<br/>[![Discord](https://img.shields.io/badge/-Discord%EF%BD%9Cm6NPNVk4bs-white?style=flat&logo=Discord)](https://discord.com/invite/m6NPNVk4bs) |
 | [SectionIstool](https://github.com/SectionIstool/SectionIstool) | | [833875216](https://qm.qq.com/q/ASRSNUJuve) | |
-| [NamePicker](https://github.com/NamePickerOrg/NamePicker) | | [2153027375](https://qm.qq.com/q/flUZy9cJMs) | |
-| [SecRandom](https://github.com/SECTL/SecRandom) | | [833875216](https://qm.qq.com/q/Y8tx1BxnmG) | |
+| [NamePicker](https://github.com/NamePickerOrg/NamePicker) | [BV1tZGwzvEra](https://www.bilibili.com/video/BV1tZGwzvEra) | [2153027375](https://qm.qq.com/q/flUZy9cJMs) | |
+| [SecRandom](https://github.com/SECTL/SecRandom) | [BV18x7rztEdE](https://www.bilibili.com/video/BV18x7rztEdE) | [833875216](https://qm.qq.com/q/Y8tx1BxnmG) | |
 :::
 
 <div align="center">

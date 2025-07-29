@@ -22,9 +22,9 @@ order: 6
 
 ***让屏幕演示变得简单，让教学授课变得高效！***
 
-GitHub仓库：[https://github.com/Alan-CRL/Inkeys](https://github.com/Alan-CRL/Inkeys)
-
 </div>
+
+<GitHubCard owner="Alan-CRL" repo="Inkeys" />
 
 <Linkcard url="https://www.inkeys.top/" title="Inkeys" description="https://www.inkeys.top/" logo="/icon/Inkeys.png"/>
 

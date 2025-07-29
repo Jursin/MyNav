@@ -14,9 +14,9 @@ order: 8
 
 一款用 C++ 和 Qt 开发的轻量白板软件。
 
-GitHub仓库：[https://github.com/lh11117/LemonxNote](https://github.com/lh11117/LemonxNote)
-
 </div>
+
+<GitHubCard owner="lh11117" repo="LemonxNote" />
 
 ## 功能
 - 批注、擦除，移动画布、多页码等基础功能

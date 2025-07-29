@@ -16,9 +16,9 @@ order: 3
 
 一款能以多种方式进行完全公平的随机抽取的软件
 
-GitHub仓库：[https://github.com/SECTL/SecRandom](https://github.com/SECTL/SecRandom)
-
 </div>
+
+<GitHubCard owner="SECTL" repo="SecRandom" />
 
 ## 功能
 - [X] 抽单人/抽多人/抽小组/抽性别 等抽取方式

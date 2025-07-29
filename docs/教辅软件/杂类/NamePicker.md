@@ -18,13 +18,13 @@ order: 1
 
 一款简洁的点名软件
 
-GitHub仓库：[https://github.com/NamePickerOrg/NamePicker](https://github.com/NamePickerOrg/NamePicker)
-
 官方文档站：[https://namepicker-docs.netlify.app](https://namepicker-docs.netlify.app)
 
 [NamePicker x ClassIsland](https://github.com/NamePickerOrg/NamePicker4CI) ｜[NamePicker x Class-Widgets](https://github.com/NamePickerOrg/NamePicker4CW) *（二者均已上架对应插件市场）*
 
 </div>
+
+<GitHubCard owner="NamePickerOrg" repo="NamePicker" />
 
 ## 功能
 - [x] 随机抽取
