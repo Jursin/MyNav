@@ -17,7 +17,7 @@ export default defineConfig({
     // 导航栏配置
     nav: [
       { text: '教辅软件', link: '/' },
-      { text: '开发工具', link: '/开发工具' },
+      { text: '实用工具', link: '/实用工具' },
       { text: '资源网站', link: '/资源网站' },
       { text: '关于', link: '/about' },
       { text: '个人博客', link: 'https://blog.jursin.top/' },

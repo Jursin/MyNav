@@ -44,12 +44,14 @@ const formatBadge = computed(() => {
             <img :src="withBase(icon)" :alt="title" onerror="this.parentElement.style.display='none'" />
           </div>
         </template>
-        <h5 v-if="title" :id="formatTitle" class="title" :class="{ 'no-icon': noIcon }">
-          {{ title }}
-        </h5>
+        <div class="title-wrapper">
+          <h5 v-if="title" :id="formatTitle" class="title" :class="{ 'no-icon': noIcon }">
+            {{ title }}
+          </h5>
+          <p v-if="desc" class="desc">{{ desc }}</p>
+        </div>
       </div>
       <Badge v-if="formatBadge" class="badge" :type="formatBadge.type" :text="formatBadge.text" />
-      <p v-if="desc" class="desc">{{ desc }}</p>
     </article>
   </a>
 </template>
@@ -94,9 +96,11 @@ const formatBadge = computed(() => {
 .m-nav-link .box-header {
   display: flex;
   align-items: center;
+  min-height: var(--m-nav-icon-box-size);
 }
 
 .m-nav-link .icon {
+  flex-shrink: 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -123,15 +127,23 @@ const formatBadge = computed(() => {
   width: var(--m-nav-icon-size);
 }
 
-.m-nav-link .title {
-  overflow: hidden;
+.m-nav-link .title-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   flex-grow: 1;
-  white-space: nowrap;
-  text-overflow: ellipsis;
+  min-height: var(--m-nav-icon-box-size);
+}
+
+.m-nav-link .title {
+  white-space: normal;
+  word-wrap: break-word;
   font-size: 16px;
   font-weight: 600;
   color: var(--vp-c-text-1);
   text-decoration: none !important;
+  margin: 0;
+  line-height: 1.4;
 }
 
 .m-nav-link .badge {
@@ -142,13 +154,15 @@ const formatBadge = computed(() => {
 }
 
 .m-nav-link .desc {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  flex-grow: 1;
-  margin: calc(var(--m-nav-box-gap) - 2px) 0 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  margin: 4px 0 0;
   line-height: 1.5;
   font-size: 12px;
   color: var(--vp-c-text-2);
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 @media (max-width: 960px) {

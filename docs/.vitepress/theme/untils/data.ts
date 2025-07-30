@@ -33,7 +33,7 @@ export const NAV_DATA: NavData[] = [
         link: '/教辅软件/课表类/LingYun-Class-Widgets'
       },
       {
-        icon: '/icon/ElectronClassSchedule.png',
+        icon: '/icon/ECS.png',
         title: 'ElectronClassSchedule',
         desc: '',
         link: '/教辅软件/课表类/ElectronClassSchedule'

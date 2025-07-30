@@ -23,6 +23,8 @@ order: 3
 
 <GitHubCard owner="SECTL" repo="SecRandom" />
 
+<Linkcard url="https://secrandom.netlify.app/" title="SecRandom 官网" description="https://secrandom.netlify.app/" logo="/icon/SecRandom.png" />
+
 ## 功能
 - [X] 抽单人/抽多人/抽小组/抽性别 等抽取方式
 - [X] 结果语音提示功能

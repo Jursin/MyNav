@@ -4,7 +4,7 @@ order: 5
 
 <div align="center">
 
-<img src="/icon/ElectronClassSchedule.png" width="64"/>
+<img src="/icon/ECS.png" width="64"/>
 
 # ElectronClassSchedule
 
