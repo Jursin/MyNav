@@ -4,6 +4,8 @@ order: 8
 
 <div align="center">
 
+<img src="/icon/LemonxNote.png" width="64" />
+
 # 柠檬白板LemonxNote
 
 <ArticleMetadata />

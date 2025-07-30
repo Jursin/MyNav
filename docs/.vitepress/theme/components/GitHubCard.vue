@@ -113,11 +113,11 @@ export default {
     },
     starRepo() {
       // 跳转到GitHub星标页面
-      window.open(this.repoData.html_url, '_blank')
+      window.open(`${this.repoData.html_url}/stargazers`, '_blank')
     },
     forkRepo() {
       // 跳转到GitHub复刻页面
-      window.open(`${this.repoData.html_url}/fork`, '_blank')
+      window.open(`${this.repoData.html_url}/forks`, '_blank')
     },
     watchRepo() {
       // 跳转到GitHub关注页面
@@ -144,7 +144,6 @@ export default {
   color: var(--vp-c-text-1);
   transition: all 0.3s ease;
   width: 100%;
-  max-width: 800px;
 }
 
 .github-card:hover {

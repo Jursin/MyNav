@@ -182,7 +182,7 @@ export const NAV_DATA: NavData[] = [
         link: '/教辅软件/批注类/Inkways-Classic'
       },
       {
-        icon: '/lemonxnote.ico',
+        icon: '/icon/LemonxNote.png',
         title: 'LemonxNote',
         desc: '',
         link: '/教辅软件/批注类/LemonxNote'

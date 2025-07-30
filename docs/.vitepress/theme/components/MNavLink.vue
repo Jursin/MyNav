@@ -150,7 +150,7 @@ const formatBadge = computed(() => {
   position: absolute;
   top: 2px;
   right: 0;
-  transform: scale(0.9);
+  transform: scale(0.95);
 }
 
 .m-nav-link .desc {

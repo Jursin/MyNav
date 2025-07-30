@@ -36,7 +36,7 @@ import { NAV_DATA } from '/.vitepress/theme/untils/data'
 
 <MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>
 
-## 友情连接
+## <i class="fas fa-link"></i> 友情链接
 
 <Linkcard url="https://forum.smart-teach.cn/" title="SmartTeachCN 智教联盟官网" description="智教联盟致力于服务全国电教委，并为教学辅助类应用提供全方面扶持与帮助。" logo="https://forum.smart-teach.cn/assets/favicon-v4ksoaxf.png"/>
 
