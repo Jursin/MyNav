@@ -2,6 +2,7 @@
 layout: doc
 layoutClass: m-nav-layout
 sidebar: false
+aside: left
 prev: false
 next: false
 outline: [2, 3, 4]
