@@ -5,7 +5,7 @@ export const NAV_DATA: NavData[] = [
     title: '在线工具集',
     items: [
       {
-        icon: 'https://uutool.cn/favicon.ico',
+        icon: 'https://uutool.cn/assets/images/favicon.png',
         title: 'UU 在线工具',
         desc: '便捷实用的工具集合站',
         link: 'https://uutool.cn/'
