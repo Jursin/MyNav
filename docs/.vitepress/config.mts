@@ -51,7 +51,7 @@ export default defineConfig({
       // sortMenusOrderNumericallyFromTitle: false,
       // sortMenusOrderNumericallyFromLink: false,
       // frontmatterOrderDefaultValue: 0,
-      manualSortFileNameByPriority: ['课表类', '多功能类', '看板类', '批注类', '下载类', '杂类', '实用工具.md', '资源网站.md', 'about.md'],
+      manualSortFileNameByPriority: ['课表类', '多功能类', '看板类', '批注类', '下载类', '点名类','杂类', '实用工具.md', '资源网站.md', 'about.md'],
       // removePrefixAfterOrdering: false, //删除前缀，必须与prefixSeparator一起使用
       // prefixSeparator: '.', //删除前缀的符号
       excludePattern: ['ExtraIsland.md', 'smart-questions.md'],
