@@ -207,25 +207,25 @@ export const NAV_DATA: NavData[] = [
     ]
   },
   {
-    title: '🔦 杂类',
+    title: '🔦 随机抽选',
     items: [
       {
         icon: '/icon/NamePicker.png',
         title: 'NamePicker',
         desc: '',
-        link: '/教辅软件/杂类/NamePicker'
+        link: '/教辅软件/随机抽选/NamePicker'
       },
       {
         icon: '/icon/Rand.png',
         title: 'Rand',
         desc: '',
-        link: '/教辅软件/杂类/Rand'
+        link: '/教辅软件/随机抽选/Rand'
       },
       {
         icon: '/icon/SecRandom.png',
         title: 'SecRandom',
         desc: '',
-        link: '/教辅软件/杂类/SecRandom'
+        link: '/教辅软件/随机抽选/SecRandom'
       }
     ]
   }
