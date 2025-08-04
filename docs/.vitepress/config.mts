@@ -100,7 +100,8 @@ export default defineConfig({
     ],
     
     footer: {
-      copyright: 'Copyright 2025 © Jursin | 本文档以 CC BY-NC-SA 4.0 许可协议授权'      
+      message: '本文档以 MIT 许可协议授权',
+      copyright: 'Copyright 2025 © Jursin'
     },
     outline: {
       level: 'deep',
