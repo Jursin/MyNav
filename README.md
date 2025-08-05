@@ -1,11 +1,11 @@
- # 我的导航站
+ # 我的导航站（ACS网页版）
 
 [![Netlify deployments](https://img.shields.io/github/deployments/Jursin/MyNav/production?style=flat&logo=netlify&label=netlify)](https://MyNav.jursin.top)
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
-这是一个使用 VitePress 搭建的导航站
+这是一个使用 VitePress 搭建的导航站，同时也是[Awsome-Class-Software](https://github.com/Jursin/Awesome-Class-Softwares)的网页版。
 
-## 快速开始
+## 参与贡献
 - 环境要求
   - Node.js 22
   - npm
