@@ -4,7 +4,7 @@ order: 6
 
 <div align="center">
 
-<img src="/icon/iClass.png" width="64"/>
+<img src="/icon/ACS/iClass.png" width="64"/>
 
 # iClass
 

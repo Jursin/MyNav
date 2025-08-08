@@ -4,7 +4,7 @@ order: 4
 
 <div align="center">
 
-<img src="/icon/InkCanvasForClass.png" width="64"/>
+<img src="/icon/ACS/InkCanvasForClass.png" width="64"/>
 
 # InkCanvasForClass
 
@@ -33,7 +33,7 @@ order: 4
 
 <div align="center">
 
-<img src="/icon/ICC-CE.png" width="64"/>
+<img src="/icon/ACS/ICC-CE.png" width="64"/>
 
 ## <badge type="tip" text="社区版本" /> InkCanvasForClass Community Edition
 在 [`icc-20240610-stable`](https://github.com/Awesome-Iwb/icc-20240610-stable) 基础上二次开发的又一个版本，目前仍在积极维护
@@ -49,7 +49,7 @@ order: 4
 
 <GitHubCard owner="InkCanvasForClass" repo="community" />
 
-<Linkcard url="https://www.iccce.dpdns.org/" title="InkCanvasForClass Community Edition 官网" description="https://www.iccce.dpdns.org/" logo="/icon/ICC-CE.png"/>
+<Linkcard url="https://www.iccce.dpdns.org/" title="InkCanvasForClass Community Edition 官网" description="https://www.iccce.dpdns.org/" logo="/icon/ACS/ICC-CE.png"/>
 
 ::: details 🤔发生了什么？
 由于众所周知的原因，[DotteringDoge471](https://github.com/DotteringDoge471) 不再积极负责 InkCanvasForClass 旧版本的开发与维护工作，而刚好 [CJKmkp](https://github,com/CJK-mkp) 又维护了这个社区版本的 InkCanvasForClass，经过沟通后这个社区版本就顺理成章地成为了 InkCanvasForClass 的官方版本。该分支版本 **目前还在开发之中** ，可能存在潜在的问题，请在出现问题后与当前开发者或与 [DotteringDoge471](https://github.com/DotteringDoge471) 反映，方便迅速诊断并解决问题。

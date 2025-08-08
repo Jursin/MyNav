@@ -4,7 +4,7 @@ order: 4
 
 <div align="center">
 
-<img src="/icon/LingYun-Class-Widgets.png" width="64"/>
+<img src="/icon/ACS/LingYun-Class-Widgets.png" width="64"/>
 
 # LingYun-Class-Widgets
 
@@ -24,7 +24,7 @@ order: 4
 
 <GitHubCard owner="Yamikani-Flipped" repo="LingYun-Class-Widgets" />
 
-<Linkcard url="https://lingyun-6e2.pages.dev/" title="LingYun-Class-Widgets 官网" description="https://lingyun-6e2.pages.dev/" logo="/icon/LingYun-Class-Widgets.png"/>
+<Linkcard url="https://lingyun-6e2.pages.dev/" title="LingYun-Class-Widgets 官网" description="https://lingyun-6e2.pages.dev/" logo="/icon/ACS/LingYun-Class-Widgets.png"/>
 
 ## 主要功能和特性
 - 桌面显示时间、日期

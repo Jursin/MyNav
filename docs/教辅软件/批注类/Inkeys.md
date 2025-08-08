@@ -4,7 +4,7 @@ order: 6
 
 <div align="center">
 
-<img src="/icon/Inkeys.png" width="64"/>
+<img src="/icon/ACS/Inkeys.png" width="64"/>
 
 # 智绘教Inkeys
 
@@ -29,7 +29,7 @@ order: 6
 
 <GitHubCard owner="Alan-CRL" repo="Inkeys" />
 
-<Linkcard url="https://www.inkeys.top/" title="Inkeys" description="https://www.inkeys.top/" logo="/icon/Inkeys.png"/>
+<Linkcard url="https://www.inkeys.top/" title="Inkeys" description="https://www.inkeys.top/" logo="/icon/ACS/Inkeys.png"/>
 
 ## 功能
 - 动态画板背景、窗口定格与穿透

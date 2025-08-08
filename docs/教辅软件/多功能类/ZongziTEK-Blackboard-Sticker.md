@@ -4,7 +4,7 @@ order: 2
 
 <div align="center">
 
-<img src="/icon/ZongziTEK.png" width="64"/>
+<img src="/icon/ACS/ZongziTEK.png" width="64"/>
 
 # ZongziTEK黑板贴
 
@@ -23,7 +23,7 @@ order: 2
 
 <GitHubCard owner="STBBRD" repo="ZongziTEK-Blackboard-Sticker" />
 
-<Linkcard url="https://zztek.top/" title="ZongziTEK 官网" description="https://zztek.top/" logo="/icon/ZongziTEK.png"/>
+<Linkcard url="https://zztek.top/" title="ZongziTEK 官网" description="https://zztek.top/" logo="/icon/ACS/ZongziTEK.png"/>
 
 ## 功能
 

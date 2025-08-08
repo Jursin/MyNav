@@ -4,7 +4,7 @@ order: 3
 
 <div align="center">
 
-<img src="/icon/Class-Widgets.png" width="64"/>
+<img src="/icon/ACS/Class-Widgets.png" width="64"/>
 
 # Class-Widgets
 
@@ -25,7 +25,7 @@ order: 3
 
 <GitHubCard owner="Class-Widgets" repo="Class-Widgets" />
 
-<Linkcard url="https://classwidgets.rinlit.cn/zh/" title="Class-Widgets 官网" description="https://classwidgets.rinlit.cn/zh/" logo="/icon/Class-Widgets.png"/>
+<Linkcard url="https://classwidgets.rinlit.cn/zh/" title="Class-Widgets 官网" description="https://classwidgets.rinlit.cn/zh/" logo="/icon/ACS/Class-Widgets.png"/>
 
 ## 主界面
 ![主界面](https://classwidgets.rinlit.cn/_astro/desktop.W-gixhu7.png)

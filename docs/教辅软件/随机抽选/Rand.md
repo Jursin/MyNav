@@ -4,7 +4,7 @@ order: 2
 
 <div align="center">
 
-<img src="/icon/Rand.png" width="64"/>
+<img src="/icon/ACS/Rand.png" width="64"/>
 
 # Rand
 

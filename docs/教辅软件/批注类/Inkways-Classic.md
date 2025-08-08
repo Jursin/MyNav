@@ -4,7 +4,7 @@ order: 7
 
 <div align="center">
 
-<img src="/icon/Inkways-Classic.png" width="64"/>
+<img src="/icon/ACS/Inkways-Classic.png" width="64"/>
 
 # Inkways-Classic
 
@@ -26,7 +26,7 @@ order: 7
 
 </div>
 
-<Linkcard url="https://inkore.net/" title="Inkways-Classic 官网" description="https://inkore.net/" logo="/icon/Inkways-Classic.png"/>
+<Linkcard url="https://inkore.net/" title="Inkways-Classic 官网" description="https://inkore.net/" logo="/icon/ACS/Inkways-Classic.png"/>
 
 ## 功能
 ![Welcome](/images/Inkways-Classic/Welcome.png)

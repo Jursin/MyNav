@@ -4,7 +4,7 @@ order: 2
 
 <div align="center">
 
-<img src="/icon/SeewoHUB.png" width="64"/>
+<img src="/icon/ACS/SeewoHUB.png" width="64"/>
 
 # SeewoHUB
 

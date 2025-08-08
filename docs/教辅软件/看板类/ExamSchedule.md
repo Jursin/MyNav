@@ -4,7 +4,7 @@ order: 3
 
 <div align="center">
 
-<img src="/icon/ExamSchedule.png" width="64"/>
+<img src="/icon/ACS/ExamSchedule.png" width="64"/>
 
 # ExamSchedule
 

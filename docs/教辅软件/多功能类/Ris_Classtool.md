@@ -4,7 +4,7 @@ order: 1
 
 <div align="center">
 
-<img src="/icon/Ris_ClassTool.png" width="64"/>
+<img src="/icon/ACS/Ris_ClassTool.png" width="64"/>
 
 # Ris_ClassTool
 
@@ -26,7 +26,7 @@ order: 1
 
 <GitHubCard owner="Ris-Soft" repo="Ris_ClassTool" />
 
-<Linkcard url="https://app.3r60.top/Ris_ClassTool" title="Ris_ClassTool 官网" description="https://app.3r60.top/Ris_ClassTool" logo="/icon/Ris_ClassTool.png"/>
+<Linkcard url="https://app.3r60.top/Ris_ClassTool" title="Ris_ClassTool 官网" description="https://app.3r60.top/Ris_ClassTool" logo="/icon/ACS/Ris_ClassTool.png"/>
 
 ## 功能
 - 📅 **课表一目了然**：在上方清晰展示每日课表，让教学安排井然有序。

@@ -4,7 +4,7 @@ order: 9
 
 <div align="center">
 
-<img src="/icon/LockTime.png" width="64"/>
+<img src="/icon/ACS/LockTime.png" width="64"/>
 
 # LockTime
 

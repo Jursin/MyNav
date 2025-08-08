@@ -4,7 +4,7 @@ order: 1
 
 <div align="center">
 
-# CSES 课程表编辑器
+# <i class="fa-solid fa-file-pen"></i> CSES 课程表编辑器
 
 <ArticleMetadata />
 

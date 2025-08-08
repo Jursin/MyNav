@@ -4,7 +4,7 @@ order: 7
 
 <div align="center">
 
-<img src="/icon/Classworks.png" width="64"/>
+<img src="/icon/ACS/Classworks.png" width="64"/>
 
 # Classworks
 
@@ -21,7 +21,7 @@ order: 7
 
 <GitHubCard owner="ClassworksDev" repo="Classworks" />
 
-<Linkcard url="https://zerocat.houlangs.com/" title="Classworks 官网" description="https://zerocat.houlangs.com/" logo="/icon/Classworks.png"/>
+<Linkcard url="https://zerocat.houlangs.com/" title="Classworks 官网" description="https://zerocat.houlangs.com/" logo="/icon/ACS/Classworks.png"/>
 
 ## ✨ 特性
 - 🎯 TypeScript 支持

@@ -4,7 +4,7 @@ order: 8
 
 <div align="center">
 
-<img src="/icon/ClassBoardSharp.png" width="64"/>
+<img src="/icon/ACS/ClassBoardSharp.png" width="64"/>
 
 # ClassBoardSharp
 

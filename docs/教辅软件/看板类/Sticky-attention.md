@@ -4,7 +4,7 @@ order: 5
 
 <div align="center">
 
-<img src="/icon/Sticky-attention.png" width="64"/>
+<img src="/icon/ACS/Sticky-attention.png" width="64"/>
 
 # Sticky-attention
 

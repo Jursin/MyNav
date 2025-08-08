@@ -4,7 +4,7 @@ order: 3
 
 <div align="center">
 
-<img src="/icon/Education-Clock.png" width="64"/>
+<img src="/icon/ACS/Education-Clock.png" width="64"/>
 
 # Education Clock
 

@@ -4,7 +4,7 @@ order: 3
 
 <div align="center">
 
-<img src="/icon/Ink-Canvas-Artistry.png" width="64"/>
+<img src="/icon/ACS/Ink-Canvas-Artistry.png" width="64"/>
 
 # Ink-Canvas-Artistry
 

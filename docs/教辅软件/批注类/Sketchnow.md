@@ -4,7 +4,7 @@ order: 5
 
 <div align="center">
 
-<img src="/icon/SketchNow.png" width="64"/>
+<img src="/icon/ACS/SketchNow.png" width="64"/>
 
 # SketchNow
 

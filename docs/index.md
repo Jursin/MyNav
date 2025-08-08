@@ -41,9 +41,9 @@ import { NAV_DATA } from '/.vitepress/theme/untils/data'
 
 <Linkcard url="https://forum.smart-teach.cn/" title="SmartTeachCN 智教联盟官网" description="智教联盟致力于服务全国电教委，并为教学辅助类应用提供全方面扶持与帮助。" logo="https://forum.smart-teach.cn/assets/favicon-v4ksoaxf.png"/>
 
-<Linkcard url="https://www.criwits.top/missing/" title="你缺失的那门计算机课" description="一份适合电脑小白入门的电脑使用课程" logo="https://www.criwits.top/missing/misc/missing_logo.svg#floatright"/>
+<Linkcard url="https://www.criwits.top/missing/" title="你缺失的那门计算机课" description="一份适合电脑小白入门的电脑使用课程" logo="https://static.criwits.top/images/misc/missing_logo.svg#floatright"/>
 
-<Linkcard url="/smart-questions" title="提问的智慧" description="教你如何正确地提问" logo="/www.catb.org.ico"/>
+<Linkcard url="/smart-questions" title="提问的智慧" description="教你如何正确地提问" logo="/catb.ico"/>
 
 ::: info 👋同类项目
 <GitHubCard owner="Awesome-Iwb" repo="Awesome-Iwb" />

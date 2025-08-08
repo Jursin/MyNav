@@ -4,7 +4,7 @@ order: 2
 
 <div align="center">
 
-<img src="/icon/Ink-Canvas-Plus.png" width="64"/>
+<img src="/icon/ACS/Ink-Canvas-Plus.png" width="64"/>
 
 # Ink-Canvas-Plus
 
@@ -22,7 +22,7 @@ Ink Canvas Plus (IC+) 是一款由 Clover Yan 维护、复刻自 [WXRIW/Ink Canv
 
 <GitHubCard owner="clover-yan" repo="Ink-Canvas-Plus" />
 
-<Linkcard url="https://www.khyan.top/apps/Ink-Canvas-Plus/" title="Ink-Canvas-Plus 官网" description="https://www.khyan.top/apps/Ink-Canvas-Plus/" logo="/icon/Ink-Canvas-Plus.png"/>
+<Linkcard url="https://www.khyan.top/apps/Ink-Canvas-Plus/" title="Ink-Canvas-Plus 官网" description="https://www.khyan.top/apps/Ink-Canvas-Plus/" logo="/icon/ACS/Ink-Canvas-Plus.png"/>
 
 ## 模式
 - 幻灯片模式

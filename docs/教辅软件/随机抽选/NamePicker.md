@@ -4,7 +4,7 @@ order: 1
 
 <div align="center">
 
-<img src="/icon/NamePicker.png" width="64"/>
+<img src="/icon/ACS/NamePicker.png" width="64"/>
 
 # NamePicker
 

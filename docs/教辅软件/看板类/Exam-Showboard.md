@@ -4,7 +4,7 @@ order: 1
 
 <div align="center">
 
-<img src="/icon/ExamAware.png" width="64"/>
+<img src="/icon/ACS/ExamAware.png" width="64"/>
 
 # Exam-Showboard
 
