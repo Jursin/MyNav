@@ -23,6 +23,10 @@ export const NAV_DATA: NavData[] = [
       {
         icon: '/icon/ACS/Class-Widgets.png',
         title: 'Class-Widgets',
+        badge: {
+          text: '开发新版中',
+          type: 'tip'
+        },
         desc: '',
         link: '/教辅软件/课表类/Class-Widgets'
       },
@@ -36,6 +40,10 @@ export const NAV_DATA: NavData[] = [
         icon: '/icon/ACS/ECS.png',
         title: 'ElectronClassSchedule',
         desc: '',
+        badge: {
+          text: '开发新版中',
+          type: 'tip'
+        },
         link: '/教辅软件/课表类/ElectronClassSchedule'
       },
       {
@@ -53,6 +61,10 @@ export const NAV_DATA: NavData[] = [
         icon: '/icon/ACS/Ris_ClassTool.png',
         title: 'Ris_ClassTool',
         desc: '',
+        badge: {
+          text: '开发新版中',
+          type: 'tip'
+        },
         link: '/教辅软件/多功能类/Ris_ClassTool'
       },
       {
@@ -110,6 +122,10 @@ export const NAV_DATA: NavData[] = [
         icon: '/svg/vite.svg',
         title: 'HomeworkBoard',
         desc: '',
+        badge: {
+          text: '已停止维护',
+          type: 'info'
+        },
         link: '/教辅软件/看板类/HomeworkBoard'
       },
       {
@@ -139,6 +155,10 @@ export const NAV_DATA: NavData[] = [
         icon: '/icon/ACS/Ink-Canvas.png',
         title: 'Ink-Canvas',
         desc: '',
+        badge: {
+          text: '长期停更中',
+          type: 'info'
+        },
         link: '/教辅软件/批注类/Ink-Canvas'
       },
       {
@@ -151,7 +171,17 @@ export const NAV_DATA: NavData[] = [
         icon: '/icon/ACS/Ink-Canvas-Artistry.png',
         title: 'Ink-Canvas-Artistry',
         desc: '',
+        badge: {
+          text: '长期停更中',
+          type: 'info'
+        },
         link: '/教辅软件/批注类/Ink-Canvas-Artistry'
+      },
+      {
+        icon: '/icon/ACS/Ink-Canvas-Better.png',
+        title: 'Ink-Canvas-Better',
+        desc: '',
+        link: '/教辅软件/批注类/Ink-Canvas-Better'
       },
       {
         icon: '/icon/ACS/InkCanvasForClass.png',
@@ -196,6 +226,10 @@ export const NAV_DATA: NavData[] = [
         icon: '/icon/ACS/SectionIstool.png',
         title: 'SectionIstool',
         desc: '',
+        badge: {
+          text: '长期停更中',
+          type: 'info'
+        },
         link: '/教辅软件/下载类/SectionIstool'
       },
       {

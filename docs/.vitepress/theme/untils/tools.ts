@@ -311,6 +311,12 @@ export const NAV_DATA: NavData[] = [
         link: 'https://www.ventoy.net/cn/'
       },
       {
+        icon: '/icon/tools/MAS.png',
+        title: 'Microsoft Activation Scripts',
+        desc: '开源 Windows 和 Office 激活器',
+        link: 'https://github.com/massgravel/Microsoft-Activation-Scripts'
+      },
+      {
         icon: '/icon/tools/HEU_KMS_Activator.png',
         title: 'HEU_KMS_Activator',
         desc: 'Windows 系统激活工具',
