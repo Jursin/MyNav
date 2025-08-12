@@ -184,10 +184,10 @@ export const NAV_DATA: NavData[] = [
         link: '/教辅软件/批注类/Ink-Canvas-Better'
       },
       {
-        icon: '/icon/ACS/InkCanvasForClass.png',
-        title: 'InkCanvasForClass',
+        icon: '/icon/ACS/ICC-CE.png',
+        title: 'ICC-CE',
         desc: '',
-        link: '/教辅软件/批注类/InkCanvasForClass'
+        link: '/教辅软件/批注类/ICC-CE'
       },
       {
         icon: '/icon/ACS/SketchNow.png',
