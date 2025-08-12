@@ -260,7 +260,13 @@ export const NAV_DATA: NavData[] = [
         title: 'SecRandom',
         desc: '',
         link: '/教辅软件/随机抽选/SecRandom'
-      }
+      },
+      {
+        icon: 'https://ex-caller.by-ts.top/favicon.ico',
+        title: 'ex-caller',
+        desc: '简约风格的随机点名工具',
+        link: '/教辅软件/随机抽选/ex-caller'
+      },
     ]
   }
 ];

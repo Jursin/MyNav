@@ -72,7 +72,7 @@ import { NAV_DATA } from '/.vitepress/theme/untils/data'
 | [Inkways-Classic](https://github.com/iNKORE-NET/Inkways) | | [655979143](https://qm.qq.com/q/wzFUnRBF9C) [1nkoreStudios](https://pd.qq.com/s/g3o1pmidm) | [![Telegram](https://img.shields.io/badge/-Telegram%EF%BD%9C@iNKORE_Studios-blue?style=flat&logo=Telegram)](https://t.me/iNKORE)<br/>[![Facebook](https://img.shields.io/badge/-Facebook%EF%BD%9C@iNKORE_Studios-blue?style=flat&logo=Facebook)](https://www.facebook.com/iNKORE.NET)<br/>[![X](https://img.shields.io/badge/-X%EF%BD%9C@iNKORE_NET-black?style=flat&logo=X)](https://x.com/iNKORE_NET)<br/>[![Discord](https://img.shields.io/badge/-Discord%EF%BD%9Cm6NPNVk4bs-white?style=flat&logo=Discord)](https://discord.com/invite/m6NPNVk4bs) |
 | [SectionIstool](https://github.com/SectionIstool/SectionIstool) | | [833875216](https://qm.qq.com/q/ASRSNUJuve) | |
 | [NamePicker](https://github.com/NamePickerOrg/NamePicker) | [BV1tZGwzvEra](https://www.bilibili.com/video/BV1tZGwzvEra) | [2153027375](https://qm.qq.com/q/flUZy9cJMs) | |
-| [SecRandom](https://github.com/SECTL/SecRandom) | [BV18x7rztEdE](https://www.bilibili.com/video/BV18x7rztEdE) | [833875216](https://qm.qq.com/q/Y8tx1BxnmG) | |
+| [SecRandom](https://github.com/SECTL/SecRandom) | [BV1kt81zdEoR](https://www.bilibili.com/video/BV1kt81zdEoR) | [833875216](https://qm.qq.com/q/Y8tx1BxnmG) | |
 :::
 
 <div align="center">

@@ -2,17 +2,6 @@ import type { NavData } from './types'
 
 export const NAV_DATA: NavData[] = [
   {
-    title: '',
-    items: [
-      {
-        icon: '',
-        title: '',
-        desc: '',
-        link: ''
-      },
-    ],
-  },
-  {
     title: '在线工具集',
     items: [
       {
@@ -164,6 +153,12 @@ export const NAV_DATA: NavData[] = [
         link: 'https://www.internetdownloadmanager.com/'
       },
       {
+        icon: '/icon/tools/NDM.ico',
+        title: 'Neat Download Manager',
+        desc: '一个下载加速器',
+        link: 'https://neatdownload.com/neat-download-manager/'
+      },
+      {
         icon: '/icon/tools/SmartSystemMenuLogo.png',
         title: 'SmartSystemMenu',
         desc: '扩展系统中所有窗口的系统菜单',
@@ -186,6 +181,12 @@ export const NAV_DATA: NavData[] = [
         title: 'Bandicam',
         desc: '一款高清的电脑录屏软件',
         link: 'https://www.bandicam.cn/'
+      },
+      {
+        icon: 'https://obsproject.com/assets/images/new_icon_small-r.png',
+        title: 'OBS Studio',
+        desc: '免费且开源的用于视频录制以及直播串流的软件',
+        link: 'https://obsproject.com/zh-cn'
       },
       {
         icon: 'https://geekuninstaller.com/assets/images/icon_geek_32@2x.png',

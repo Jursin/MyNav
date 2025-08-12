@@ -1,0 +1,30 @@
+---
+order: 4
+---
+
+<div align="center">
+
+<img src="https://ex-caller.by-ts.top/favicon.ico" width="64"/>
+
+# ex-caller
+
+<ArticleMetadata />
+
+![demo](/images/ex-caller/demo.webp)
+
+简约风格的随机点名工具
+
+[网页版](https://ex-caller.by-ts.top)｜[离线版下载](https://ex-caller.by-ts.top/update)｜[最新尝鲜版](https://main.ex-caller.by-ts.top)
+
+</div>
+
+<GitHubCard owner="typed-sigterm" repo="ex-caller" />
+
+## 主要功能
+- 🔄️ 随机点名，可自定义过号时间
+- 📓 多个名单，自由切换
+- 🔧 名单批量导入/导出
+- 🎉 彩带特效
+- 🧩 自定义背景图片
+- 🤫 点名计划
+  > 计划功能可以让你控制点名结果。不过为了防止滥用，启用计划后，设置按钮会变成红色。

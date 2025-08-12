@@ -10,7 +10,7 @@ order: 3
 
 <ArticleMetadata />
 
-![main](/images/SecRandom/main.png)
+![welcome](/images/SecRandom/welcome.png)
 
 [![Downloads](https://img.shields.io/github/downloads/SECTL/SecRandom/total?style=social&label=Downloads&logo=github)](https://github.com/SECTL/SecRandom/releases/latest)
 [![Release](https://img.shields.io/github/v/release/SECTL/SecRandom?style=flat&color=%233fb950&label=正式版)](https://github.com/SECTL/SecRandom/releases/latest)
@@ -23,21 +23,27 @@ order: 3
 
 <GitHubCard owner="SECTL" repo="SecRandom" />
 
-<Linkcard url="https://secrandom.netlify.app/" title="SecRandom 官网" description="https://secrandom.netlify.app/" logo="/icon/ACS/SecRandom.png" />
+<Linkcard url="https://secrandom.netlify.app/" title="SecRandom 文档站" description="https://secrandom.netlify.app/" logo="/icon/ACS/SecRandom.png" />
 
 ## 功能
-- [X] 抽单人/抽多人/抽小组/抽性别 等抽取方式
-- [X] 结果语音提示功能
-- [X] 可开关的历史记录
-- [X] 带时间戳的详细抽取记录
-- [X] 多班级名单管理
-- [X] 独立抽取与设置界面
-- [X] 便捷悬浮窗设计
-- [X] 自动清除抽取记录
-- [X] 抽取动态权重系统
-- [X] 公平抽取的概率可视化
-- [X] 开机自启动支持
-- [X] 现代化UI设计
+- 抽单人/抽多人/抽小组/抽性别 等抽取方式
+  ![main](/images/SecRandom/main.png)
+- 结果语音提示功能
+- 可开关的历史记录
+  ![history](/images/SecRandom/history.png)
+- 带时间戳的详细抽取记录
+- 多名单管理
+- 独立抽取与设置界面
+  ![setings](/images/SecRandom/settings.png)
+- 便捷悬浮窗设计
+- 自动清除抽取记录
+- 抽取动态权重系统
+- 公平抽取的概率可视化
+- 抽取结果播报支持更多功能
+- 开机自启动支持
+- 现代化UI设计
+- 插件支持
+  ![plugin](/images/SecRandom/plugin.png)
 
 ## 宣传视频
-<BilibiliVideo bvid="BV18x7rztEdE" />
+<BilibiliVideo bvid="BV1kt81zdEoR" />
