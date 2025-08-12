@@ -10,9 +10,7 @@ order: 4
 
 <ArticleMetadata />
 
-![main](/images/ICC-CE/main.png)
-
-![board](/images/ICC-CE/board.png)
+![banner](/images/ICC-CE/banner.png)
 
 [![Downloads](https://img.shields.io/github/downloads/InkCanvasForClass/community/total?style=social&label=Downloads&logo=github)](https://github.com/InkCanvasForClass/community/releases/latest)
 [![Release](https://img.shields.io/github/v/release/InkCanvasForClass/community?style=flat&color=%233fb950&label=正式版)](https://github.com/InkCanvasForClass/community/releases/latest)
