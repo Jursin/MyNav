@@ -10,6 +10,10 @@ order: 2
 
 <ArticleMetadata />
 
+![toolbar](/images/Ink-Canvas-Plus/toolbar.png)
+
+![board](/images/Ink-Canvas-Plus/board.png)
+
 [![Downloads](https://img.shields.io/github/downloads/clover-yan/Ink-Canvas-Plus/total?style=social&label=Downloads&logo=github)](https://github.com/clover-yan/Ink-Canvas-Plus/releases/latest)
 [![Release](https://img.shields.io/github/v/release/clover-yan/Ink-Canvas-Plus?style=flat&color=%233fb950&label=正式版)](https://github.com/clover-yan/Ink-Canvas-Plus/releases/latest)
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C996760298-blue?style=flat&logo=QQ)](https://qm.qq.com/q/yVzprKLfbi)
